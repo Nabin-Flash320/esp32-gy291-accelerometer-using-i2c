@@ -1,0 +1,18 @@
+{
+    "env": {
+        "ESPIDFComponentsIncludeFolder": ["${HOME}/esp/esp-idf/components/**"],
+        "ESPIDFCommonComponentsIncludeFolder": ["${HOME}/esp/esp-idf/examples/common_components/**"],
+        "ProjectComponentsIncludeFolder":["${workspaceFolder}/components/**"]
+    },
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${ESPIDFComponentsIncludeFolder}",
+                "${ESPIDFCommonComponentsIncludeFolder}",
+                "${ProjectComponentsIncludeFolder}"
+            ]
+        }
+    ],
+    "version": 4
+}

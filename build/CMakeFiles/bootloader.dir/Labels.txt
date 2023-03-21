@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/nds/Programs/c-workspace/esp32-gy291-i2c/build/CMakeFiles/bootloader
+/home/nds/Programs/c-workspace/esp32-gy291-i2c/build/CMakeFiles/bootloader.rule
+/home/nds/Programs/c-workspace/esp32-gy291-i2c/build/CMakeFiles/bootloader-complete.rule
+/home/nds/Programs/c-workspace/esp32-gy291-i2c/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/nds/Programs/c-workspace/esp32-gy291-i2c/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/nds/Programs/c-workspace/esp32-gy291-i2c/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/nds/Programs/c-workspace/esp32-gy291-i2c/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/nds/Programs/c-workspace/esp32-gy291-i2c/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/nds/Programs/c-workspace/esp32-gy291-i2c/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/nds/Programs/c-workspace/esp32-gy291-i2c/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
